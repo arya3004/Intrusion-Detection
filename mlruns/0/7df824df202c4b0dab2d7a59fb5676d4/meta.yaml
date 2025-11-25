@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/hp/Downloads/ml-ids/mlruns/0/7df824df202c4b0dab2d7a59fb5676d4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7df824df202c4b0dab2d7a59fb5676d4
+run_name: crawling-finch-915
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762066678499
+status: 1
+tags: []
+user_id: hp

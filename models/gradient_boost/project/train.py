@@ -5,6 +5,7 @@ import mlflow.pyfunc
 import pickle
 import os
 import shutil
+from ml_ids.models.gradient_boost.model import ModelWrapper
 from catboost import Pool
 from ml_ids.data.dataset import load_dataset_hdf
 from ml_ids.data.metadata import FEATURES_NO_VARIANCE, FEATURES_TO_IGNORE, FEATURES_PRESERVE_NEG_COLUMNS
@@ -173,15 +174,10 @@ def train(train_path,
                        })
 
         mlflow.pyfunc.save_model(
-            path=mlflow_model_path,
-            python_model=CatBoostWrapper(),
-            artifacts={
-                'cbm_model': cbm_model_path,
-                'pipeline': pipeline_path,
-                'col_config': col_config_path
-            },
-            conda_env='conda.yaml',
-            code_path=['../../../ml_ids'])
+            path=output_path,
+            python_model= ModelWrapper(pipeline, estimator),
+            artifacts={"model": model_path}
+                )
 
         logger.info('Training completed.')
 

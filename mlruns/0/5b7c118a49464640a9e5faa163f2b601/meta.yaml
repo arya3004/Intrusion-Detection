@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/hp/Downloads/ml-ids/mlruns/0/5b7c118a49464640a9e5faa163f2b601/artifacts
+end_time: 1762072003611
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b7c118a49464640a9e5faa163f2b601
+run_name: serious-snipe-653
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762071967888
+status: 4
+tags: []
+user_id: hp

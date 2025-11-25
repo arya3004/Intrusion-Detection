@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/hp/Downloads/ml-ids/mlruns/0/af5fd33380644098a6f8d7443a0a8b16/artifacts
+end_time: 1762077642924
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af5fd33380644098a6f8d7443a0a8b16
+run_name: useful-dove-305
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762077642480
+status: 4
+tags: []
+user_id: hp

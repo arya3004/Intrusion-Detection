@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/hp/Downloads/ml-ids/mlruns/0/18459529f87b44b7a18c478fba5bf49f/artifacts
+end_time: 1763092851771
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 18459529f87b44b7a18c478fba5bf49f
+run_name: model_evaluation
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763092851620
+status: 3
+tags: []
+user_id: hp

@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+column#!/usr/bin/env bash
 
 image_name=$1
 image_version=$2

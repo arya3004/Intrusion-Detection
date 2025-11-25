@@ -36,7 +36,7 @@ def upsample_minority_classes(X: np.ndarray,
                         n_jobs=n_jobs,
                         random_state=random_state)
     else:
-        smote = SMOTE(sampling_strategy=sample_dict, n_jobs=n_jobs, random_state=random_state)
+        smote = SMOTE(sampling_strategy=sample_dict, random_state=random_state)
 
     x_s, y_s = smote.fit_resample(X, y.label_cat)
     return x_s, y_s

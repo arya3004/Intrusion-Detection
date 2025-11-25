@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/hp/Downloads/ml-ids/mlruns/0/50b0a09122d2446eba2cd3e7ffb93572/artifacts
+end_time: 1762081979456
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 50b0a09122d2446eba2cd3e7ffb93572
+run_name: gaudy-colt-88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762081959310
+status: 4
+tags: []
+user_id: hp

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/hp/Downloads/ml-ids/mlruns/0/8d74283dbae4426ea1ca834cb02bebf3/artifacts
+end_time: 1762077205662
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d74283dbae4426ea1ca834cb02bebf3
+run_name: burly-koi-561
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762077205159
+status: 4
+tags: []
+user_id: hp

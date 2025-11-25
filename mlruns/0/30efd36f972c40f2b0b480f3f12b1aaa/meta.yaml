@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/hp/Downloads/ml-ids/mlruns/0/30efd36f972c40f2b0b480f3f12b1aaa/artifacts
+end_time: 1762069405114
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 30efd36f972c40f2b0b480f3f12b1aaa
+run_name: marvelous-kit-321
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762069354817
+status: 4
+tags: []
+user_id: hp

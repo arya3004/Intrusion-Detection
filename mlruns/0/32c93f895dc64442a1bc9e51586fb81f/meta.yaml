@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/hp/Downloads/ml-ids/mlruns/0/32c93f895dc64442a1bc9e51586fb81f/artifacts
+end_time: 1762073960767
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 32c93f895dc64442a1bc9e51586fb81f
+run_name: crawling-conch-3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762073955103
+status: 4
+tags: []
+user_id: hp

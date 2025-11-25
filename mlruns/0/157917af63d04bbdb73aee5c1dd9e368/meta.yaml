@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/hp/Downloads/ml-ids/mlruns/0/157917af63d04bbdb73aee5c1dd9e368/artifacts
+end_time: 1762071798208
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 157917af63d04bbdb73aee5c1dd9e368
+run_name: receptive-doe-111
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762071779779
+status: 4
+tags: []
+user_id: hp

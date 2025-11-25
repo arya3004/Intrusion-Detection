@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/hp/Downloads/ml-ids/mlruns/0/420c40876ff741ccb02589b8e834f1f5/artifacts
+end_time: 1762083238654
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 420c40876ff741ccb02589b8e834f1f5
+run_name: incongruous-croc-459
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762083182719
+status: 4
+tags: []
+user_id: hp

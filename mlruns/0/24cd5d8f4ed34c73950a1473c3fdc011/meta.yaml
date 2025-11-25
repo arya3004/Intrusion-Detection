@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/hp/Downloads/ml-ids/mlruns/0/24cd5d8f4ed34c73950a1473c3fdc011/artifacts
+end_time: 1762081710187
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 24cd5d8f4ed34c73950a1473c3fdc011
+run_name: blushing-mink-458
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762081709623
+status: 4
+tags: []
+user_id: hp

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/hp/Downloads/ml-ids/mlruns/0/bc25645b95e84d6ba997b7b87b89047e/artifacts
+end_time: 1762072582269
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bc25645b95e84d6ba997b7b87b89047e
+run_name: fun-grub-45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762072528957
+status: 4
+tags: []
+user_id: hp

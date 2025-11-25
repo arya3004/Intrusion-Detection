@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/hp/Downloads/ml-ids/mlruns/0/bea1264890b44613b81b4bf8d11f451a/artifacts
+end_time: 1762073686440
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bea1264890b44613b81b4bf8d11f451a
+run_name: tasteful-sow-281
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762073686076
+status: 4
+tags: []
+user_id: hp

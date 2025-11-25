@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/hp/Downloads/ml-ids/mlruns/0/70f812a070c446c8a55ed6b2e90c6f15/artifacts
+end_time: 1762082761876
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 70f812a070c446c8a55ed6b2e90c6f15
+run_name: luxuriant-shoat-224
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762082713383
+status: 4
+tags: []
+user_id: hp

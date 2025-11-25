@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/hp/Downloads/ml-ids/mlruns/0/6705717ecf59424bbe9bf81e4eef64ee/artifacts
+end_time: 1762082392473
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6705717ecf59424bbe9bf81e4eef64ee
+run_name: adorable-wren-417
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762082373408
+status: 4
+tags: []
+user_id: hp

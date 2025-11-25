@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/hp/Downloads/ml-ids/mlruns/0/ddab3f88fe614fa2b6805dc78bb8e9ad/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ddab3f88fe614fa2b6805dc78bb8e9ad
+run_name: masked-ox-965
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762066936881
+status: 1
+tags: []
+user_id: hp

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/hp/Downloads/ml-ids/mlruns/0/2a2444a57aca422e934ed37dcaca483a/artifacts
+end_time: 1762067043053
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a2444a57aca422e934ed37dcaca483a
+run_name: carefree-hog-238
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762067010710
+status: 4
+tags: []
+user_id: hp

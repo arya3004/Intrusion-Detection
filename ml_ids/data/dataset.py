@@ -33,9 +33,9 @@ def remove_negative_values(df: pd.DataFrame, ignore_cols: List[str] = None) -> p
     if ignore_cols is None:
         ignore_cols = []
 
-    numeric_cols = df.select_dtypes(include=[np.number]).columns.drop(ignore_cols).values
+    numeric_cols = df.select_dtypes(include=[np.number]).columns
 
-    columns = [c for c in numeric_cols if df[df[c] < 0][c].count() > 0]
+    columns = [c for c in numeric_cols if c not in ignore_cols]
     for col in columns:
         mask = df[col] < 0
         df.loc[mask, col] = np.nan
@@ -157,7 +157,7 @@ def load_dataset_hdf(dataset_path: str,
     """
 
     def load_hdf(path, cols):
-        return pd.read_hdf(path, key=key, columns=cols)
+        return pd.read_hdf(path, key=key)
 
     return load_dataset_generic(load_df_fn=load_hdf,
                                 dataset_path=dataset_path,

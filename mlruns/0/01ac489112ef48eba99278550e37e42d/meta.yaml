@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/hp/Downloads/ml-ids/mlruns/0/01ac489112ef48eba99278550e37e42d/artifacts
+end_time: 1762077461338
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 01ac489112ef48eba99278550e37e42d
+run_name: bold-crow-409
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762077460880
+status: 4
+tags: []
+user_id: hp

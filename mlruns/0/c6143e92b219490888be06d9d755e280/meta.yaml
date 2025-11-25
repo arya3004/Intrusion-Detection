@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/hp/Downloads/ml-ids/mlruns/0/c6143e92b219490888be06d9d755e280/artifacts
+end_time: 1762071688757
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c6143e92b219490888be06d9d755e280
+run_name: monumental-perch-843
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762071668044
+status: 4
+tags: []
+user_id: hp
