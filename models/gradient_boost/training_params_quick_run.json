@@ -1,6 +1,0 @@
-{
-  "task_type": "GPU",
-  "nr_iterations": 10,
-  "nr_samples_attack_category": 1000,
-  "random_seed": 42
-}
